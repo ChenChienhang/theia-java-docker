@@ -95,7 +95,12 @@
         "vscode-java-debug": "https://github.com/microsoft/vscode-java-debug/releases/download/0.24.0/vscjava.vscode-java-debug-0.24.0.vsix",
         "vscode-java-test": "https://github.com/microsoft/vscode-java-test/releases/download/0.22.0/vscjava.vscode-java-test-0.22.0.vsix",
         "vscode-java-dependency-viewer": "https://github.com/microsoft/vscode-java-dependency/releases/download/0.6.0/vscode-java-dependency-0.6.0.vsix",
-        "vscode-code-runner": "https://github.91chifun.workers.dev/https://github.com//formulahendry/vscode-code-runner/releases/download/0.9.17/code-runner-0.9.17.vsix"
+        "vscode-code-runner": "https://github.91chifun.workers.dev/https://github.com//formulahendry/vscode-code-runner/releases/download/0.9.17/code-runner-0.9.17.vsix",
+        "vscode-intellicode": "http://118.178.253.239:9000/vsix/VisualStudioExptTeam.vscodeintellicode-1.2.12.vsix",
+        "vscode-leetcode": "http://118.178.253.239:9000/vsix/LeetCode.vscode-leetcode-0.17.0.vsix",
+        "vscode-livecode": "http://118.178.253.239:9000/vsix/MS-vsliveshare.vsliveshare-pack-0.4.0.vsix",
+        "vscode-eslint": "http://118.178.253.239:9000/vsix/dbaeumer.vscode-eslint-2.1.19.vsix",
+        "jupyter": "http://118.178.253.239:9000/vsix/ms-toolsai.jupyter-2021.4.641214696.vsix"
     },
     "devDependencies": {
         "@theia/cli": "latest"
